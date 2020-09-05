@@ -7,7 +7,18 @@
 	"license": "MIT",
     "engines": {
         "vscode": "^1.48.0"
-    },
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
+	},
+	"homepage": "https://github.com/hugolcouto/dark-mint-vscode-theme",
+	"galleryBanner": {
+		"color": "#F5F5F5"
+	},
     "categories": [
         "Themes"
     ],
