@@ -1,0 +1,23 @@
+{
+    "name": "dark-mint-vscode-theme",
+    "displayName": "Dark Mint",
+	"description": "Dark and green theme with a vibrant and colorful syntax",
+	"version": "0.0.1",
+	"author": "Hugo Couto",
+	"license": "MIT",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Mint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Mint-color-theme.json"
+            }
+        ]
+    }
+}
