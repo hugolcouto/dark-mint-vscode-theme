@@ -1,35 +1,35 @@
 {
-    "name": "dark-mint-vscode-theme",
-    "displayName": "Dark Mint",
-	"description": "Dark and green theme with a vibrant and colorful syntax",
-	"version": "0.0.1",
-	"publisher": "hugolcouto",
-	"author": "Hugo Couto",
-	"license": "MIT",
-    "engines": {
-        "vscode": "^1.48.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
-	},
-	"homepage": "https://github.com/hugolcouto/dark-mint-vscode-theme",
-	"galleryBanner": {
-		"color": "#F5F5F5"
-	},
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Mint",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Mint-color-theme.json"
-            }
-        ]
-    }
+				"name": "dark-mint-vscode-theme",
+				"displayName": "Dark Mint",
+				"description": "Dark and green theme with a vibrant and colorful syntax",
+				"version": "0.0.4",
+				"publisher": "hugolcouto",
+				"author": "Hugo Couto",
+				"license": "MIT",
+				"engines": {
+								"vscode": "^1.48.0"
+				},
+				"repository": {
+								"type": "git",
+								"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
+				},
+				"bugs": {
+								"url": "https://github.com/hugolcouto/dark-mint-vscode-theme"
+				},
+				"homepage": "https://github.com/hugolcouto/dark-mint-vscode-theme",
+				"galleryBanner": {
+								"color": "#F5F5F5"
+				},
+				"categories": [
+								"Themes"
+				],
+				"contributes": {
+								"themes": [
+												{
+																"label": "Dark Mint",
+																"uiTheme": "vs-dark",
+																"path": "./themes/Dark Mint-color-theme.json"
+												}
+								]
+				}
 }
