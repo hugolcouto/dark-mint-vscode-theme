@@ -6,6 +6,7 @@
 				"publisher": "hugolcouto",
 				"author": "Hugo Couto",
 				"license": "MIT",
+				"icon": "images/icon.png",
 				"engines": {
 								"vscode": "^1.48.0"
 				},
