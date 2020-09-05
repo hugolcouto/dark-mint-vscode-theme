@@ -3,6 +3,7 @@
     "displayName": "Dark Mint",
 	"description": "Dark and green theme with a vibrant and colorful syntax",
 	"version": "0.0.1",
+	"publisher": "hugolcouto",
 	"author": "Hugo Couto",
 	"license": "MIT",
     "engines": {
