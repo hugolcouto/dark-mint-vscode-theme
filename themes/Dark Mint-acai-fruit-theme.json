@@ -39,7 +39,7 @@
 		"editor.foreground": "#79a9da",
 		"sideBarTitle.foreground": "#79a9da",
 		"editor.selectionBackground": "#00b89480",
-		// "window.activeBorder": "#00b894",
+		"window.activeBorder": "#00b894",
 		"minimap.selectionHighlight": "#00b89480",
 		"editorWhitespace.foreground": "#765D69",
 		"editorIndentGuide.background": "#765D69",
