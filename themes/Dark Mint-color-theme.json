@@ -9,6 +9,7 @@
 		"tab.inactiveBackground": "#000",
 		"editorGroupHeader.tabsBackground": "#000",
 		"input.background": "#000",
+		"input.foreground": "#f0f",
 		"titleBar.activeBackground": "#000",
 		"titleBar.inactiveBackground": "#000",
 		"dropdown.background": "#0d0d0d",
@@ -59,7 +60,7 @@
 			"scope": "string",
 			"settings": {
 			"foreground": "#b2bec3",
-			"fontStyle": "italic"
+			"fontStyle": ""
 			}
 		},
 		{
@@ -337,7 +338,8 @@
 			"name": "Json Property",
 			"scope": "support.dictionary.json",
 			"settings": {
-			"foreground": "#a06040"
+			"foreground": "#a06040",
+			"fontStyle": ""
 			}
 		},
 		{
