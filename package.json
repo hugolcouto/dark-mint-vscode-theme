@@ -2,7 +2,7 @@
 	"name": "dark-mint-vscode-theme",
 	"displayName": "Dark Mint",
 	"description": "Dark and green theme with a vibrant and colorful syntax",
-	"version": "2.1.2",
+	"version": "3.0",
 	"publisher": "hugolcouto",
 	"author": "Hugo Couto",
 	"license": "MIT",
@@ -35,6 +35,11 @@
 				"label": "Dark Mint - açaí fruit",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Dark Mint-acai-fruit-theme.json"
+			},
+			{
+				"label": "Dark Mint - refreshing",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Mint-soft-theme.json"
 			}
 		]
 	}
