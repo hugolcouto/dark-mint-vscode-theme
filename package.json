@@ -1,7 +1,7 @@
 {
 	"name": "dark-mint-vscode-theme",
 	"displayName": "Dark Mint",
-	"description": "Dark and green theme with a vibrant and colorful syntax",
+	"description": "Theme with a vibrant and colorful syntax",
 	"version": "3.0",
 	"publisher": "hugolcouto",
 	"author": "Hugo Couto",
@@ -37,9 +37,14 @@
 				"path": "./themes/Dark Mint-acai-fruit-theme.json"
 			},
 			{
-				"label": "Dark Mint - refreshing",
+				"label": "Dark Mint - soft",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Dark Mint-soft-theme.json"
+			},
+			{
+				"label": "Dark Mint - Fane",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Mint-fane-theme.json"
 			}
 		]
 	}
