@@ -2,50 +2,48 @@
 	"name": "Dark Mint",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#111",
-		"activityBar.background": "#111",
-		"sideBar.background": "#111",
-		"statusBar.background": "#111",
-		"tab.inactiveBackground": "#111",
-		"editorGroupHeader.tabsBackground": "#111",
-		"input.background": "#111",
-		"titleBar.activeBackground": "#111",
-		"titleBar.inactiveBackground": "#111",
-		"dropdown.background": "#111",
-		"editor.hoverHighlightBackground": "#444",
-		"dropdown.border": "#555",
-		"dropdown.listBackground": "#222",
-		"menu.background": "#161616",
-		"menu.border": "#555",
-		"quickInput.background": "#161616",
-		"editorWidget.background": "#161616",
-		"editorWidget.border": "#00b894",
-		"notificationCenter.border": "#555",
-		"notificationCenterHeader.background": "#222",
-		"notificationToast.border": "#555",
-		"notifications.background": "#222",
-		"editorGutter.background": "#111",
-		"tab.hoverBackground": "#1d1d1d",
-		"tab.activeBackground": "#161616",
-		"tab.activeBorder": "#00b894",
-		"tab.border": "#111",
-		"activityBarBadge.background": "#00b894",
-		"activityBar.foreground": "#00b894",
-		"activityBar.inactiveForeground": "#555",
-		"button.background": "#555",
-		"button.hoverBackground": "#0f0f0f",
-		"panelTitle.activeBorder": "#555",
-		"input.border": "#555",
-		"inputOption.activeBorder": "#555",
-		"focusBorder": "#555",
-		"editor.lineHighlightBorder": "#555",
-		"list.hoverBackground": "#555",
-		"list.activeSelectionBackground": "#555",
+		"editor.background": "#1e1d20",
+		"activityBar.background": "#222026",
+		"sideBar.background": "#222026",
+		"statusBar.background": "#222026",
+		"tab.inactiveBackground": "#222026",
+		"editorGroupHeader.tabsBackground": "#222026",
+		"input.background": "#1e1d20",
+		"titleBar.activeBackground": "#222026",
+		"titleBar.inactiveBackground": "#1e1d20",
+		"dropdown.background": "#222026",
+		"editor.hoverHighlightBackground": "#f3f3f32c",
+		"dropdown.border": "#2E3131",
+		"dropdown.listBackground": "#222026",
+		"menu.background": "#222026",
+		"menu.border": "#2E3131",
+		"quickInput.background": "#222026",
+		"notificationCenter.border": "#2E3131",
+		"notificationCenterHeader.background": "#222026",
+		"notificationToast.border": "#2E3131",
+		"notifications.background": "#222026",
+		"editorGutter.background": "#1e1d20",
+		"tab.activeBackground": "#1e1d20",
+		"tab.activeBorder": "#f3f3f3cc",
+		"tab.hoverBackground": "#f3f3f32c",
+		"activityBarBadge.background": "#2E3131",
+		"button.background": "#35333a",
+		"button.hoverBackground": "#64616c",
+		"panelTitle.activeBorder": "#2E3131",
+		"input.border": "#2E3131",
+		"inputOption.activeBorder": "#2E3131",
+		"focusBorder": "#2E3131",
+		"editor.lineHighlightBorder": "#2E3131",
+		"list.hoverBackground": "#2E313180",
+		"list.activeSelectionBackground": "#2E313180",
+		"activityBar.foreground": "#f3f3f3",
 		"editor.foreground": "#79a9da",
 		"sideBarTitle.foreground": "#79a9da",
-		"editor.selectionBackground": "#555",
-		"window.activeBorder": "#555",
-		"minimap.selectionHighlight": "#555"
+		"editor.selectionBackground": "#64616c",
+		"editor.lineHighlightBackground": "#64616c",
+		"window.activeBorder": "#2E3131",
+		"minimap.selectionHighlight": "#64616c",
+		"editor.renderLineHighlight": "all"
 	},
 	"tokenColors": [
 		{
@@ -182,7 +180,7 @@
 				"keyword.operator.constructor"
 			],
 			"settings": {
-				"foreground": "#b90b93",
+				"foreground": "#f90dda",
 				"fontStyle": ""
 			}
 		},
@@ -190,7 +188,7 @@
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#f53b57",
+				"foreground": "#e82b09",
 				"fontStyle": ""
 			}
 		},
@@ -219,7 +217,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#43c4e1",
+				"foreground": "#00e0e0",
 				"fontStyle": "bold"
 			}
 		},
@@ -241,7 +239,7 @@
 			"name": "Function name",
 			"scope": ["entity.name.function", "support.function"],
 			"settings": {
-				"foreground": "#7d5fff"
+				"foreground": "#0091e8"
 			}
 		},
 		{
@@ -283,6 +281,7 @@
 			"scope": ["entity.name.tag.class", "entity.name.tag.id"],
 			"settings": {
 				"foreground": "#1e35ff"
+				// "foreground": "#E040FB"
 			}
 		},
 		{

@@ -2,7 +2,7 @@
 	"name": "dark-mint-vscode-theme",
 	"displayName": "Dark Mint",
 	"description": "Theme with a vibrant and colorful syntax",
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"publisher": "hugolcouto",
 	"author": "Hugo Couto",
 	"license": "MIT",
@@ -45,7 +45,20 @@
 				"label": "Dark Mint - Fane",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Dark Mint-fane-theme.json"
+			},
+			{
+				"label": "Dark Mint - Solid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Mint-solid-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "44ba47a2-d484-4a2a-b565-2f69a8de19cd",
+		"publisherId": "aa392af6-be35-41f2-90f4-1136663a76d2",
+		"publisherDisplayName": "Hugo Couto",
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1646063623361
 	}
 }
