@@ -26,7 +26,7 @@
 		"tab.activeBackground": "#1e1d20",
 		"tab.activeBorder": "#f3f3f3cc",
 		"tab.hoverBackground": "#f3f3f32c",
-		"activityBarBadge.background": "#2E3131",
+		"activityBarBadge.background": "#00b894",
 		"button.background": "#35333a",
 		"button.hoverBackground": "#64616c",
 		"panelTitle.activeBorder": "#2E3131",
@@ -38,11 +38,13 @@
 		"list.activeSelectionBackground": "#2E313180",
 		"activityBar.foreground": "#f3f3f3",
 		"editor.foreground": "#79a9da",
+		"editorLineNumber.activeForeground": "#00b894",
 		"sideBarTitle.foreground": "#79a9da",
-		"editor.selectionBackground": "#64616c",
-		"editor.lineHighlightBackground": "#64616c",
+		"editor.selectionBackground": "#333c",
+		"editor.lineHighlightBackground": "#333c",
+		"editor.selectionHighlightBorder": "#777",
 		"window.activeBorder": "#2E3131",
-		"minimap.selectionHighlight": "#64616c",
+		"minimap.selectionHighlight": "#333c",
 		"editor.renderLineHighlight": "all"
 	},
 	"tokenColors": [
@@ -281,7 +283,6 @@
 			"scope": ["entity.name.tag.class", "entity.name.tag.id"],
 			"settings": {
 				"foreground": "#1e35ff"
-				// "foreground": "#E040FB"
 			}
 		},
 		{
@@ -561,7 +562,7 @@
 			"name": "Markup: Emphasis",
 			"scope": "markup.normal, markup.normal.markdown",
 			"settings": {
-				//"fontStyle": "normal"
+				"fontStyle": "italic"
 			}
 		},
 		{
